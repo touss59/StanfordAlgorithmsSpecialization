@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphs", "Graphs", "{D93EF67B-10DF-403E-801F-3E03E309658C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DijkstraAlgo", "DijkstraAlgo\DijkstraAlgo.csproj", "{1B05AC3A-1299-421C-A9DC-F0D80678FE3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgoSF", "AlgoSF\AlgoSF.csproj", "{8BCDE27A-ABEC-4716-9EC1-CB634CDCB53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B05AC3A-1299-421C-A9DC-F0D80678FE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B05AC3A-1299-421C-A9DC-F0D80678FE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B05AC3A-1299-421C-A9DC-F0D80678FE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B05AC3A-1299-421C-A9DC-F0D80678FE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCDE27A-ABEC-4716-9EC1-CB634CDCB53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCDE27A-ABEC-4716-9EC1-CB634CDCB53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCDE27A-ABEC-4716-9EC1-CB634CDCB53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCDE27A-ABEC-4716-9EC1-CB634CDCB53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1B05AC3A-1299-421C-A9DC-F0D80678FE3E} = {D93EF67B-10DF-403E-801F-3E03E309658C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEC08BB0-23D5-43B7-A6D3-A9A427B3D9AC}
+	EndGlobalSection
+EndGlobal
